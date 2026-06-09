@@ -10,7 +10,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #004346; /* Dark teal from your palette */
+    background-color: #004346; 
     padding: 20px;
     margin: 0;
 }
@@ -19,9 +19,9 @@ body {
     text-align: center;
     width: 100%;
     max-width: 850px;
-    background-color: #F7F7FF; /* Light background from your palette */
+    background-color: #F7F7FF;
     padding: 20px;
-    border: 2px solid #00C49A; /* Bright teal accent */
+    border: 2px solid #00C49A; 
     position: relative;
     overflow: hidden;
 }
